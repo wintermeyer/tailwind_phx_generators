@@ -1,6 +1,8 @@
-# TailwindPhxGenerators
+# Generator for Phoenix templates which use TailwindCSS
 
-**TODO: Add description**
+Currently I am working on the problem how to build this package. 
+See:
+https://stackoverflow.com/questions/65591612/location-for-a-phoenix-helper-in-a-hex-package
 
 ## Installation
 
